@@ -1,1 +1,16 @@
 /* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+  text-align: center;
+  padding: 40px;
+}
+.currency-img {
+  width: 800px;
+  height: 300px;
+}
+.image-div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:160px;
+}

@@ -1,1 +1,7 @@
 /* Write your CSS here */
+.main-div {
+  background-color: #000000;
+  width: 100vw;
+  height: 100vh;
+}
+
