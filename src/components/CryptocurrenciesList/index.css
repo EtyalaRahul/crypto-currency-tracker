@@ -8,9 +8,9 @@
   width: 800px;
   height: 300px;
 }
-.image-div{
+.image-div {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top:160px;
+  margin-top: 160px;
 }
